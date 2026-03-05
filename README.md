@@ -1,6 +1,6 @@
 ### Для запуска работы необходимо сделать следующее:
-1) Для копирования данного проекта себе на комп IDE в терминале введете:
-   git clone https://github.com/PaulieHarmonicane/Optimisation_problems.git
+1) Для копирования данного проекта себе на комп IDE в терминале введете: </br>
+   git clone https://github.com/PaulieHarmonicane/Optimisation_problems.git</br>
    cd Optimisation_problems
 
 2) Теперь необходимо создать окружение проекта. В терминале:
